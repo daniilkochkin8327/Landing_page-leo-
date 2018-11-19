@@ -1,3 +1,3 @@
 # Landing_page-leo-
-! [Image alt] (https://raw.githubusercontent.com/daniilkochkin8327/Landing_page-leo-/branch/path/to/img.png)
+![Imag](https://github.com/daniilkochkin8327/Landing_page-leo-/blob/master/LendingPage__Leo.png)
 
